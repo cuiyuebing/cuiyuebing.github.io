@@ -83,14 +83,12 @@ author:
   name             : "Yue Cui （崔越)"
   avatar           : "profile.jpeg"
   bio              : "Undergraduate  
-  Yingcai Honors College  
-  University of Electronic Science and Technology of China  
-  No.2006, Xiyuan Ave, West Hi-Tech Zone Chengdu, Sichuan, China"
-  location         : "Chengdu, China"
+UESTC"
+  location         : "No.2006, Xiyuan Ave, West Hi-Tech Zone Chengdu, Sichuan, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cuipaofu at gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
